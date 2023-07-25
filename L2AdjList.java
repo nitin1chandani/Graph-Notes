@@ -1,6 +1,6 @@
 
 // Adjacency List : It is also a way of representing but it is not costly as Adj matrix
-// Space complexity : O(2E)
+// Space complexity : O(2n)   n is number of edges 
 import java.util.*;
 
 public class L2AdjList {
