@@ -1,6 +1,6 @@
 
 // Adjacency Matrix : way of representing graph
-// here the space complexity if O(n*n) where n is number of nodes which is very costly that's why we use adj list
+// here the space complexity if O(m*m) where m is number of nodes which is very costly that's why we use adj list
 import java.util.*;
 
 public class AdjacencyMatrix {
